@@ -14,8 +14,8 @@ TODOs_App is a to-do management application with React, based on the Platzi Reac
 ## Screenshots
 
 ![Screenshot 1](assets/img/add-Todo.jpeg)
-![Screenshot 2](assets/img/list-Todo.jpeg)
-![Screenshot 2](assets/img/loading-Todo.jpeg)
+![Screenshot 2](assets/img/list-todo.jpeg)
+![Screenshot 2](assets/img/loading-todo.jpeg)
 
 ## Facility
 
