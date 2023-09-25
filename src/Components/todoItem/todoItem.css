@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    background-color: #bee9e8;
+    gap: 20px;
+    width: 80%;
+    border: solid 2px #1A2D38;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    box-shadow:  5px 5px 5px 0px rgba(26,45,56,1);
+}
+li:hover{
+    position: relative;
+    animation: moverTarjeta 1s ease infinite alternate;
+}
+@keyframes moverTarjeta {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(5px);
+    }
+}
+li .todo-description{
+    font-size: 18px;
+}
+.todo-container{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    background-color: #a4c3b2;
+    border: solid 3px #1A2D38;
+}
+.succes{
+    cursor: pointer;
+    font-weight: 600;
+}
+.succes:hover{
+    background-color: #a7c957;
+    border: solid 3px #386641;
+    color: #386641
+}
+
+.delete:hover{
+    cursor: pointer;
+    background-color: #bc4749;
+    border: solid 3px #780000;
+    color: #780000;
+}
+
+.todo-completed{
+    text-decoration: line-through 3px;
+    color: #5D7175;
+}
+
+.btn-completed, .btn-completed:hover{
+    background-color: #386641;
+    border: solid 3px #386641;
+    color: #386641
+}
+
+@media (width < 560px){
+    li .todo-description{
+        font-size: 14px;
+    }
+}

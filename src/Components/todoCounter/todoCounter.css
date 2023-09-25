@@ -1,0 +1,14 @@
+.title-counter{
+    font-size: 24px;
+    text-align: center;
+    text-shadow: 3px 3px 5px #00000033;
+}
+.title-counter .number{
+    color: #fff;
+    -webkit-text-stroke: 1px #1B4965;
+}
+
+.celebration{
+    color: #1B4965;
+    text-shadow: 3px 3px 5px #00000033;
+}
