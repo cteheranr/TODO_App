@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cteheranr/TODO_App/static/css/main.30ff12e5.css",
-    "main.js": "/cteheranr/TODO_App/static/js/main.716b691f.js",
-    "index.html": "/cteheranr/TODO_App/index.html",
-    "main.30ff12e5.css.map": "/cteheranr/TODO_App/static/css/main.30ff12e5.css.map",
-    "main.716b691f.js.map": "/cteheranr/TODO_App/static/js/main.716b691f.js.map"
+    "main.css": "/Users/Usuario/Documents/Frontend%20Developer/Camilo%20-%20platzi/TODO_App/build/static/css/main.30ff12e5.css",
+    "main.js": "/Users/Usuario/Documents/Frontend%20Developer/Camilo%20-%20platzi/TODO_App/build/static/js/main.716b691f.js",
+    "index.html": "/Users/Usuario/Documents/Frontend%20Developer/Camilo%20-%20platzi/TODO_App/build/index.html",
+    "main.30ff12e5.css.map": "/Users/Usuario/Documents/Frontend%20Developer/Camilo%20-%20platzi/TODO_App/build/static/css/main.30ff12e5.css.map",
+    "main.716b691f.js.map": "/Users/Usuario/Documents/Frontend%20Developer/Camilo%20-%20platzi/TODO_App/build/static/js/main.716b691f.js.map"
   },
   "entrypoints": [
     "static/css/main.30ff12e5.css",
