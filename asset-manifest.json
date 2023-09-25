@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cteheranr/TODO_App/static/css/main.30ff12e5.css",
+    "main.js": "/cteheranr/TODO_App/static/js/main.716b691f.js",
+    "index.html": "/cteheranr/TODO_App/index.html",
+    "main.30ff12e5.css.map": "/cteheranr/TODO_App/static/css/main.30ff12e5.css.map",
+    "main.716b691f.js.map": "/cteheranr/TODO_App/static/js/main.716b691f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ff12e5.css",
+    "static/js/main.716b691f.js"
+  ]
+}
